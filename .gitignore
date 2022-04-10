@@ -1,0 +1,8 @@
+.DS_Store
+/data_science_
+/data_science_basics/archive/
+/data_science_nlps/
+/data_science_learning_basics/
+/data_science_programs/datasets/
+/data_science_programs/*.pkl
+/data_science_programs/openml/
